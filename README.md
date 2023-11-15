@@ -1,2 +1,2 @@
-# ufg-repo
-Repositório de trabalhos realizados em diversas disciplinas do curso de Ciência da Computação da Universidade Federal de Goiás. Necessita revisar e organizar os códigos. Será feito com o tempo.
+# Trabalho final de Introdução à Programação
+A proposta do trabalho era o de elaborar e desenvolver um projeto que utilizasse todo o conteúdo visto na disciplia, que abrangia conceitos básicos da linguagem C, loops, vetores e matrizes, structs e manipulação de arquivos.
