@@ -1,0 +1,134 @@
+0
+15
+Joao Carlos Gomes
+Masculino
+Branco
+Solteiro
+Ensino Superior Completo
+Administrador
+2000
+1 1 1992
+62988823169
+Clara Oliveira Chagas
+Feminino
+Branca
+Casada
+Cursando Ensino Superior
+Estagiária
+800
+24 4 1997
+64976873740
+Marcos Basílio Miguel
+Transgenero
+Afrodescendente
+Solteiro
+Ensino Superior Completo
+Contador
+2500
+30 5 1995
+62984612417
+Wallace Gadelha Reino
+Masculino
+Afrodescendente
+Casado
+Ensino Médio Completo
+Técnico de Suporte
+1200
+17 2 2000
+62993804627
+Ranya Anlicoara Esparteiro
+Feminino
+Branca
+Solteira
+Ensino Superior Completo
+Desenvolvedor Front-end
+3000
+4 4 1994
+62983352879
+Luan Dias Cardoso Costa
+Masculino
+Branco
+Solteiro
+Ensino Superior Completo
+CEO
+15000
+14 3 2000
+62997651046
+Adam Tavares Frota
+Masculino
+Branco
+Casado
+Ensino Superior Completo
+Diretor de RH
+7000
+21 5 1999
+62973170394
+Sarah Pereira Almeida
+Feminino
+Parda
+Casada
+Ensino Superior Completo
+Designer 
+5000
+09 4 2000
+64999953666
+Taina Costa Dutra
+Feminino
+Indigena
+Solteira
+Ensino Superior Completo
+Segurança
+4000
+20 5 1998
+64989362717
+Linda Rosa Balduino
+Feminino
+Negra 
+Solteira´
+Ensino Superior Completo
+Diretora de RH
+7000
+26 2 2001
+62997604455
+Maria Juana Gonçalves Cunha
+Feminino
+Parda
+Solteira
+Ensino Superior Completo
+Diretora de Sustentabilidade
+7500
+7 9 2002
+62973266554
+Feeby Barth Zaffari
+Feminino
+Branca
+Casada
+Ensino Superior Completo
+Secretária
+3000
+10 2 1997
+62987585228
+Celeste Oliveira Gregório
+Feminino
+Branca
+Solteira
+Ensino Superior Completo
+Diretora de I.A.
+9000
+64982235019
+Toon Alquimi Castro
+Masculino
+Branco
+Casado
+Ensino Superior Completo
+Designer
+4000
+61967464515
+Igor Toledo
+Masculino
+Branco
+Solteiro
+Ensino Superior Completo
+Faxineiro
+4000
+62985974638
