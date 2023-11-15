@@ -1,0 +1,47 @@
+23
+Misto quente
+7.00
+Coxinha
+8.00
+Empada de carne seca
+8.00
+Empada de frango
+8.00
+Empada vegetariana
+9.00
+Enroladinho de queijo
+10.00
+Porção de pão de queijo
+10.00
+Porção de biscoito de queijo
+10.00
+Torta de frango cremosa
+10.00
+Torta de palmito cremosa
+10.00
+Torta vegetariana
+12.00
+Croissant de queijo
+12.00
+Croissant de presunto
+12.00
+Café Frappe
+13.00
+Latte gelado
+13.00
+Cappucino gelado
+13.00
+Mocca gelado
+13.00
+Chá gelado
+13.00
+Smootie
+15.00
+Milkshake ninho com nutella
+16.00
+Milkshake morango
+16.00
+Suco natural
+7.00
+Refrigerante lata
+6.00
